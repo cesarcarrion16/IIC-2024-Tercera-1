@@ -4,23 +4,25 @@
 <head>
     <meta charset="utf-8">
     <meta name="Proyecto de Tecera 1" content="Pagina de prueba">
-    <title>
+    <!-- <title>
         Tercera 1
-    </title>
+    </title> -->
     <link rel="stylesheet" href="./styles/main.css">
 </head>
 
 <menu>
     <div class="menu-izquierda">
         <a href="./index.php">
-            <img src="./images/hospital.jpg" alt="">
+            <img src="./images/logo1.jpeg" alt="">
         </a>
-        
-        <p class="texto-menu-izquierda"> 
-            El hospital
-            
-        </p>
+    </div>
+    <div class="menu-derecha">
+        <a class="enlaces-menu-derecha" href="https://google.com">Primer Ingreso</a>
+        <a class="enlaces-menu-derecha" href="https://google.com">Aula en Linea</a>
+
     </div>
 </menu>
+
+
 
 </html>
